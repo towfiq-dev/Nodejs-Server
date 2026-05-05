@@ -11,6 +11,7 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "nodemon": "^3.1.14",
     "random-fruits-name": "^1.10.3"
   }
 }
